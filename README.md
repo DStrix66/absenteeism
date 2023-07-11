@@ -1,5 +1,6 @@
-# absenteeism
-Absenteeism Project
+# Absenteeism Project
+
+*PURPOSE*: To support HR decision-making on cost reduction and employee job satisfaction by identifying the main predictors of excessive absenteeism at work.
 
 *AIM*: To predict excessive absenteeism at work (>= 3 hours absence during work hours) based on historical absenteeism data.
 
