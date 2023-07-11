@@ -4,7 +4,7 @@
 
 *AIM*: To predict excessive absenteeism at work (>= 3 hours absence during work hours) based on historical absenteeism data.
 
-*METHOD*: Use Python for EDA and feature engineering to prepare data to be fed into a pre-built regression ML model and visualise insights in Tableau Public.
+*METHOD*: Use Python for EDA and feature engineering to prepare data to be fed into a pre-built logistic regression model and visualise insights in Tableau Public.
 
 *DATA*: Primary raw data provided by company's HR department.
 
